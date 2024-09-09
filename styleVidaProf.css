@@ -1,0 +1,33 @@
+#imagem {
+    max-width: 90%;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(220, 203, 142, 0.718);
+}
+
+#bibli {
+    text-align: left;
+    height: 50%;
+
+}
+
+.container {
+    overflow: hidden;
+}
+
+.fotoLuisa {
+    float: left;
+    width: 50%;
+}
+
+.texto {
+    float: right;
+    text-align: left;
+    width: 50%;
+}
+
+body {
+    background-color: rgb(239, 244, 246);
+}
